@@ -1,1 +1,1 @@
-Making changes under student repository
+Making changes to a file as an instructor
